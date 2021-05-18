@@ -1,6 +1,6 @@
-# pig_community
+# Hello Fellow Pigsters
 
-Pig Community
+Pig Community Mobile Application
 
 ## Getting Started
 
